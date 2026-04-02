@@ -1,0 +1,17 @@
+node_modules/
+.DS_Store
+*.log
+
+# Output folders
+test-results/
+output/
+
+# Environment files
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
